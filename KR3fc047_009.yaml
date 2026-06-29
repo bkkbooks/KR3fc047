@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 江都焦循述康熙甲子律書用諸輪法雍正癸卯律書用橢圜法蓋實測隨時而差則立法亦隨時而改循學習此術以義藴深密未易尋究謹擇其精要析而明之庶幾便於初學云爾嘉慶元年九月朔録於吳興舟次橢圜之法起於兩心差引兩心差而倍之謂之倍心差以倍心差為底以兩半徑為要得中垂線為小半徑亦曰小徑或以兩心差為句半徑為弦求得股亦小徑倍小徑與全徑交規而圜之是為橢圜卯未辰已平圜也子丑為兩心差寅子丑為倍心差自子至己至未至卯至辰皆半徑以寅丑為底以兩半徑為兩要成寅午丑三角形午之所當為子子午
+  hash: sha256:da5a8db952f095efe6cb876195132710c5de576464ac7a6de6647608ba8b4bcb
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:8ea3c58580ff5991ab61bddee6ba91d90fd5a7f7008b30f195ab016daec9928d

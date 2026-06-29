@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 最卑而地心至橢圜界之線短角度必寬是為行盈太陽在午線之上是為最高而地心至橢圜界之線長角度必狹是為行縮盈縮高卑之理雖與地谷同而橢圜之法則密於苐谷諸輪之法若以諸輪法測今日日月五星之天有不謬以千里者哉昔秦大司寇蕙田輯五禮通考觀𧰼授時一門戴編修震分纂詳述諸輪之法而不及大陽地半徑差淸𫎇氣差橢圜之說不亦傎乎是篇仿線淵觀𧰼賦之例自為圖注反復參稽抉藴闡奧為實測推步之學者所不可無之書也學者從事於斯以求日𨇠月離交食諸輪無晦不明無隱不顯矣里堂不以藩為謭劣屬序是篇乃書橢圜緣起為讀是篇者之先導云嘉慶三年季冬月友人甘泉江藩作
+  hash: sha256:a6c7c029a89fa4d3fd2eb859fcbf7ef14e32aede9a41e567a4e43cf5a7be39fb
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:5bb17718c0be86eb8fc524214e1f8d82f4f74e1d25f4261f9289370eac9901e9

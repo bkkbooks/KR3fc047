@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:a86cd6a8aa983c9a1ae8c4db97392150c3d747a9ecc19475c6ca3797547083df

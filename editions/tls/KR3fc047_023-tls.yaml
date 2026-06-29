@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/23
+seq: 23
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加子午丑卽橢圜差角何也今以丑午徑綫依𧰼限與子午斜交成子丑午句股形以句子午自乘爲子午室虛正方以弦自乘丑午與子已等爲子已危辰正方二方相減餘午已危辰虛室曲尺形與股子丑自乘之子丑奎壁積數等子丑奎與室危虛辰等子壁奎與午已室危等算差角之法以底危昴胃乘高半徑卽其高亦卽外垂綫折半卽得底乘高爲己婁危胃方形折半爲己危午昴長方形視已午危室止少一室昴危凡正方形分爲三己婁一婁畢二畢子三作子胃與畢危兩斜綫則畢危子胃斜方與己危畢等亦與子胃辰等畢危子胃爲正方中三分之一己婁危胃亦正方中三分之一今子胃危爲畢危子胃之半知卽
+  hash: sha256:777cf4dbceba6e00a36c6966ebcf4c575e9ee09891520e5e1aed6f075fb42ceb
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:cdc6d397f64e0bd1517e63741eaa31a723a9133ed1bbf1605c6070c3d182bfd4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已婁危胃之半己危午昴也子丑奎壁既與午已危辰虛室曲尺形等若規小徑子午作平圜與大圜為距等改切線為弦線已危辰大圜之切線午室虛小徑平圜之切線婁角亢大圜之弦線觜心氐小徑平圜之切線亦以股自乘之方為切壁奎丑而規其內為圜壁參鬼復於其內作弦線井參鬼則井參子鬼亦與觜婁角亢氐心曲尺形等差角之線子房以此分界則圜內弦線為軫房氐柳張翼曲尺形亦與圜內子坤乾坎縱方形積等氐房
+  hash: sha256:d8a921d6e3a4c4074e18890ac0b29dbf3a674d76a207ec181fc049e480499805
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:a51e2f60057abf31212ba87758247968b442a05cd04ba449e8c2565bd1bb2f84

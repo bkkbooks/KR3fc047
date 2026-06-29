@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寅斗丑斗合二千萬分之不知其數乃以寅斗與丑斗聯爲一綫作丑斗泰長綫斗泰卽寅斗爲之底以寅丑兩心差爲小要成寅丑泰三角形此形有丑泰弧有寅丑弧有丑外角必先知丑角酉戌求得泰角又求得寅泰弧中寅泰而半之成觀泰斗句股形此形有泰角有觀泰弧用正弧三角法求得泰斗卽得寅斗也求法詳見釋弧若以丑斗連於寅斗前圖以寅斗連丑斗作寅復丑三角形此形有寅角與角度綫平行有寅丑弧有寅復弧可求復角及復丑弧有復丑弧有復角可得復斗弧矣復斗卽丑斗若以復角
+  hash: sha256:8fe03c3863bdce9d7ca57a7b96fb1801f6474b6c769d0d66ed719d9bd12cb746
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:97e1a8a8114897dfbde9e44ea7aaf99245d11b8f9bb9851a2c537664619b5bc9

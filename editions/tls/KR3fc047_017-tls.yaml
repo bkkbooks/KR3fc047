@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自子作綫截平圜於角則角辰爲子角弧度角亢爲正弦與子角綫遇於平圜交橢弧處則爲亢尾與角不相遇矣若别作氐心正弦遇於心則氐房與子角亦不相遇此自然之勢也若以角亢正弦自橢弧截爲亢尾則自子作子尾綫遇之若氐心正弦伸至平圜爲氐房則自子作子房
+  hash: sha256:085e568d2e19dd108266df300cc01b30cb751e7ac9ba6e733bfdb106913766d0
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:9266744c81274a6458891fe77b972668a46295a642cb3afcee9aca64819f484e

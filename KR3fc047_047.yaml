@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 酉小方一率大方二率丑辰斗三率丑戌酉四率得數以一度定積求之一度定積即中率靣積所分者詳見前得酉戌為丑角若由一度更求二度則先求丑斗線地心角用外垂法以丑斗自乘與中率自乘為比例蓋每度之線有長短之不一則所比例之積有多寡之不一也丑斗異於丑辰則丑斗巽震亦異於丑辰隨姤而所求得之丑角酉戌自異於丑辰之所求矣有心差之角度可以得橢圜之靣積是謂借積求積有子角角辰度求丑斗辰靣積先以角辰度為寅角
+  hash: sha256:d384937e356d54ead5e21268720f53366ab53b39b6486ca35aeaabf988599da3
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:b76e5eb72f8299311ca2e8415aac724eded8e85463ac6e009a5f8291ae035a05

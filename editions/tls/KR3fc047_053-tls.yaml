@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/53
+seq: 53
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 過𧰼限例用餘弦餘切詳見畢底故用鼎恆鼎斗餘弦猶限內用鼎恒鼎斗正弦用萃謙萃豫餘切猶限內戌辰謙辰豫正切有心差之角度可以求地心之角度是謂借角求角
+  hash: sha256:9323fda950d4ccc751d56db025cf952868320142e489293ce1599a6faf9f2ead
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:b2904eaf02d8642370b62ee07d2effd532668b65aa793b840b783c09b31fa15b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 線遇之亦自然之勢也自弦言之子角尾為子尾亢差角子房心為子心氐差角自弧言之子心箕為子心辰差角子房角為子角辰差角自倍差㸃設徑線即半徑所移線與平圜度線平行有角度即有此線謂之設角寅為倍差㸃丑為地心寅斗線與子房線平行其角度皆等故有子角即有寅角也自地心設線與倍差心線之端遇於橢圜在𧰼限無差角之較內於限則大一差角外於限則小一差角大則加之小則減之
+  hash: sha256:b3685f708dcd167cf81b6bf30eb0138ab20f0f24426a681597d031efe845947c
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:55970900750369ea2d30ec8e166af372affcc0ed95ef79f6eb3bc549be3b06a5

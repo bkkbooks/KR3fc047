@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句通於餘弦股通於正弦弦通於半徑以寅丑半徑為弦則丑節正弦為句寅節餘弦為股以寅咸半徑為弦則益咸正弦為句寅節餘弦為股句股與八線本相比例詳見釋弧而互相為用尤見精巧至橢圜子辰半徑此寅丑得為半徑者半徑長短視乎圜而率為一千萬則不易也中半徑因大徑小徑而成且用實率故不依一千萬之數有垂線以得句股有句股和以得兩要有兩要以得弦矢有寅角則以寅斗為半徑求得斗鼎句有丑角則以
+  hash: sha256:7c4d69922ade17f2943b73168e92ce3f53572a7831d60319e1d707091d4f51e9
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:488e7f5eceb85c5a952d21cede194851158e97a3c3c05054fe82e1910f342633

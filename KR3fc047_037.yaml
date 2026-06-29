@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 並丑角即斗外角斗寅丑之斗角以此斗角並寅角即丑外角丑斗辰之丑角為橢圜丑角度也丑角度酉戌詳見前用泰角並法亦同並得外角之義角詳見釋輪內垂外垂兩要之用也用兩要和所以求丑斗也不用兩要和則又有內垂外垂之法如有丑角酉戌求丑斗則以寅丑倍心差數為弧丑角為角求得豐丑句寅豐股外垂線乃以豐丑加丑斗寅斗兩半徑二千萬為股弦和寅斗為弦豐丑斗為股寅亥為句用句與股弦和求股之法其法以句自乘以股弦和除之得股弦較以較與和相加折半得弦數餘為股數得豐丑斗數減豐丑知丑斗數矣
+  hash: sha256:eb1c287af455fec98f13bdf0538e1b238be9ce77ae9bcbd3766b705d57f47189
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:82e827b62b395441377591cd0cdb31a43f302ecd68a5a18a0fed438198a52712

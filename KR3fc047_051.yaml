@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/51
+seq: 51
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既得子丑牛靣積即得丑斗賁積數用以積求角法求得斗賁度加斗辰得辰賁實行度此丑斗線在一限內若在限外則求得斗心艮靣積用以積求角法求得斗賁度減斗辰不用加得辰賁實行度
+  hash: sha256:07ae84709a0f2ac1b1809f641e62b58111579a8886837880c9d3ae21dba3904b
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:e853e3e47b303843f2b2533a7f3981ca53658d0d1fb6f2b1d8c5f4c6894f635e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/45
+seq: 45
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地心丑去最卑近去最高遠子在最高與地心丑之閒最卑後子在丑前則丑斗辰緼於子斗辰之內故小於子斗辰最高後丑在子前則丑斗辰周於子斗辰之外故大於子斗辰有橢圜之靣積可以求地心之角度是謂以積求角有丑斗辰橢圜一度靣積求丑角度酉戌以丑辰小徑自乘爲丑隨姤辰小方又以中率徑丑酉卽子庚自乘爲丑酉渙遯大方以小方比丑斗辰以大方比丑戌
+  hash: sha256:9d4dd2db0b956803a221afc989b0c03070bfe72a0b952ba53cddf69869b17261
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:6b1212669835d68f3eb18fd4e5f02dffcf74cfab894d90010859807ba17cc6cf

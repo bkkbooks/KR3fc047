@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc047/tls/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 短於子已故爲小徑子午卽寅午丑三角之中垂綫故求得中垂綫卽子午綫倍子午爲申午又倍子辰爲卯辰卽全徑交於子緣卯申辰午而規之卽橢圜形矣橢圜以地心爲心分其度爲三百六十扺最卑則短扺最高則長每度不均於弧而均於積丑爲地心自丑分三百六十度近辰之度綫必短弧必長近卯之度綫必長弧必短其靣積則皆同弧三角法其弧度皆等故以諸輪馭其所不等此分以積而弧本不等故省諸輪之用也故橢圜之積橢圜之度也橢圜之角平圜之弧也
+  hash: sha256:e5ada5b7bc321f83ce16330a06304905a9001b1f3a69861a3391bbe73eff4787
+metadata:
+  title: 釋橢
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc047.xml
+hash: sha256:e65a0ad3fac83db29a6dfe97d0ca5c85f0d6132cf9adb4a76f54eb50c04f621c
