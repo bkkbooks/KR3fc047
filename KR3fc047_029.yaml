@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 子巽屯倍差角巽屯底與箕斗弧交於兌則兌斗巽與兌屯箕等故巽子屯與子斗箕等自斗作斗艮線則斗艮箕與子丑牛等大徑小徑者比例之根也子已為大徑子午為小徑子已與子午如房氐與心氐亦如豫辰與謙辰又如子房辰與子心辰求角度必比例得正弦若自辰角求辰房必以大小徑比例正切而得之
-  hash: sha256:a071cd4f0f2ec0b0cf04754cadb7e7bfb41b6ac0c1b196bb2d6f46d8ace06530
+  text: 子巽屯倍差角巽屯底與箕斗弧交於兌則兌斗巽與兌屯箕等故巽子屯與子斗箕等自斗作斗艮綫則斗艮箕與子丑牛等大徑小徑者比例之根也子已爲大徑子午爲小徑子已與子午如房氐與心氐亦如豫辰與謙辰又如子房辰與子心辰求角度必比例得正弦若自辰角求辰房必以大小徑比例正切而得之
+  hash: sha256:f8d76b681346c8ea92586dbfa3e1116eeb3badc427b245753bd1287c8aac4be4
 metadata:
   title: 釋橢
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc047.xml
-hash: sha256:07efbd7f708be1ec57240373eff3e81ca034aaea7b215c783dc159ff43b431aa
+hash: sha256:b154e640aa958b99205c8b32f8d5d01aaaedddf99ac1e76640a73fcfba18628e
